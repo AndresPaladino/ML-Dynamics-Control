@@ -16,7 +16,6 @@ conda activate ddse
 conda env create -f environment.yml -n [mi_entorno]
 conda activate [mi_entorno]
  ```
-
 ### Uso
 ```bash
 jupyter-notebook
