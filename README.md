@@ -2,7 +2,7 @@
 Ejercicios y ejemplos que vaya haciendo en mi lectura del libro Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control de J. Nathan Kutz and Steven L. Brunton
 
 **Aviso:** Estas notas no son una guia, sino una recopilacion de las cosas que voy haciendo a medida que voy leyendo el libro, va a haber errores y voy a sacar conclusiones erroneas en muchas ocaciones. Supongo que a medida que vaya avanzando en el libro también voy a ir perfeccionando las tecnicas que uso :).
-![readmeGif](CH01/generated_visualizations/readmeGif.gif)
+![readmeGif](https://github.com/AndresPaladino/ML-Dynamics-Control/blob/main/CH01%20-%20Singular%20Value%20Decomposition%20(SVD)/generated_visualizations/readmeGif.gif?raw=true)
 
 ### Requisitos
 - Miniconda o Anaconda instalado.
