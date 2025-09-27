@@ -21,3 +21,14 @@ conda activate [mi_entorno]
 ```bash
 jupyter-notebook
 ```
+
+### Exportar environment
+```bash
+conda env export --from-history > environment.yml
+```
+### Actualizar environment
+```bash
+conda env update --file environment.yml --prune
+```
+
+
