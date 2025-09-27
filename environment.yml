@@ -10,4 +10,5 @@ dependencies:
   - scipy
   - jupyter
   - notebook
+  - seaborn
 prefix: /opt/miniconda3/envs/ddse
