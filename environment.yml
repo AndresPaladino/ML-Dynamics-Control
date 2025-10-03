@@ -11,4 +11,8 @@ dependencies:
   - jupyter
   - notebook
   - seaborn
-prefix: /opt/miniconda3/envs/ddse
+  - pillow
+  - pip
+  - pip:
+    - sounddevice 
+prefix: E:\Miniconda\envs\ddse
